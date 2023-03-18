@@ -1,5 +1,7 @@
 # S3M (performance Mismatch in I/O Size, ParalleliSm and Sequentiality)
 
+> Haochen He, Erci Xu, Shanshan Li, Zhouyang Jia, Si Zheng, Yue Yu, Jun Ma, and Xiangke Liao. "When Database Meets New Storage Device: Understanding and Exposing Performance Mismatches via Configurations." PVLDB, 16(7). *(TO APPEAR)*
+
 `confSysTaint` is the core of `S3M`, `confSysTaint` is based on LLVM IR, it analyzes the control and data dependency between configuration variable and specific syscalls. An example shows how it works:
 
 <img width="412" alt="截屏2022-09-03 12 02 02" src="https://user-images.githubusercontent.com/18543932/188259997-0e1b7269-9e90-41a6-b153-edeeeb4c47ca.png">
