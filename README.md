@@ -1,4 +1,4 @@
-# confSysTaint
+# S3M (performance Mismatch in I/O Size, ParalleliSm and Sequentiality)
 
 `confSysTaint` is the core of `S3M`, `confSysTaint` is based on LLVM IR, it analyzes the control and data dependency between configuration variable and specific syscalls. An example shows how it works:
 
